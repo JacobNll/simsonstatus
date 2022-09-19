@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @simsonstatus
+
 - I post progress from my linked projects here
 - 📫 How to reach me simson_studios@gmx.net
 
